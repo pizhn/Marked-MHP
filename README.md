@@ -12,4 +12,6 @@ Did following updates:
 
 Points 1, 3 and 4 significantly speeds up the estimation process.
 
-(Details, comments and examples will be added in the near future)
+Estimation of parameters using MLE(maximum likelihood estimation). If you don't have preference on MLE, [Tick](https://github.com/X-DataInitiative/tick) might be a more mature choice. (Please make sure the formulation of tick's Hawkes Process fits your requirement)
+
+*Details, comments and examples will be added in the near future*
