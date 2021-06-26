@@ -4,6 +4,11 @@ A library for simulation and estimation of **Marked Multivariate Hawkes Process*
 
 Code referred and modified from this [Soni Sandeep's excellent implementation](https://github.com/sandeepsoni/MHP)!
 
+> MIT License
+> 
+> Copyright (c) 2017 Sandeep Soni
+
+
 Did following updates:
 1. Supports estimation and simulation of **mark** in MHP
 2. Vectorizes optimization process for estimation
